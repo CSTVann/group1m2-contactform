@@ -1,5 +1,5 @@
 {
-    "name": "m2g1-contactform/package-name",
+    "name": "m2g1-contactform",
     "type": "project",
     "description": "A short description of what your package does",
     "keywords": ["laravel", "framework"],
